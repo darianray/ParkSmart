@@ -65,3 +65,22 @@ REACT_APP_FIREBASE_APP_ID=your-app-id
 ---
 🚀 **Developed by a passionate team at Lander University**
 **Previously hosted at www.LanderParking.com**
+
+
+![Home Page](ReadMeImages/homePage.png)
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+![Vehicle History](ReadMeImages/vehicleHistory.png)
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+![Parking History](ReadMeImages/parkingStats.png)
