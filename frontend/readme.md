@@ -1,1 +1,5 @@
-These are the source files for the website front end and API
+# React Firebase Authentication Example
+
+Put your credentials to `.env`.
+
+Run `yarn start` to start application.
